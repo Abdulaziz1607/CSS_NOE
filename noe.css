@@ -7700,105 +7700,136 @@ table.table-caddy > tfoot > tr > td {
 }
 
 body{
-  background-image: linear-gradient(#f4f6f4,#f4f6f4);
-  font-family: Bahnschrift, sans-serif;
-  color: black;
-}
-.navbar-nav .nav-heading{
-    background-image: linear-gradient( 35deg, Darkgreen, Darkgreen );
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    }
-a.btn.btn-md.btn-default.btn-ticketings {
-  background-color: darkgreen;
-}
-a.btn.btn-md.btn-default.btn-bookings.active {
-  background-color: #f69320;
+	background-image: linear-gradient(#cee0d5,#cee0d5);
+	font-family: Bahnschrift, sans-serif;
+	color: black;
 }
 
-a.btn.btn-md.btn-default.btn-bookings {
-    background-color: #f69320;
+.navbar-nav .nav-heading{
+	background-image: linear-gradient( 35deg,#046938,#f15b2a);
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-a.btn.btn-primary.btn-md.pull-right {
-  background-color: #f69320;
+
+a.btn.btn-md.btn-default.btn-ticketings {
+	background-color: #046938;
 }
-.col-md-8 .text-strong {
-  color: #f15b2a;
+
+a.btn.btn-md.btn-default.btn-bookings.active {
+	background-color: #f69320;
 }
-.col-md-8 .text-muted a{
-  color: black;
+
+
+a.btn.btn-md.btn-default.btn-bookings {
+	background-color: #f69320;
 }
-#footer .container{
-  background-color:#cee0d5;
+
+a.btn.btn-primary.btn-md.pull-right {
+	background-color: #f69320;
 }
-.navbar {
-  background-color:#cee0d5;
+
+.col-md-8 .text-strong {
+	color: gray;
 }
-.navbar-right a{
-color:black;
+
+.col-md-8 .text-muted a{
+	color: gray;
 }
-button.quantity-left-minus.btn.btn-default.no-margin.btn-number {
-  background-color: darkgreen;
+
+#footer .container{
+	background-color:#cee0d5;
 }
-button.quantity-right-plus.btn.btn-default.no-margin.btn-number {
-    background-color: darkgreen;
+
+.navbar {
+	background-color:#cee0d5;
 }
-button.btn.btn-primary.btn-lg.add-to-cart {
-    background-color: #f69320;
+
+.navbar-right a{
+	color:black;
 }
-a.btn.btn-default.btn-md.btn-full-xs {
-      background-color: #f69320;
+
+button.quantity-left-minus.btn.btn-default.no-margin.btn-number {
+	background-color: #8CC540;
 }
-a.btn.btn-primary.btn-md.btn-full-xs {
-      background-color: darkgreen;
+
+button.quantity-right-plus.btn.btn-default.no-margin.btn-number {
+	background-color: #8CC540;
 }
+
+button.btn.btn-primary.btn-lg.add-to-cart {
+	background-color: #f69320;
+}
+
+a.btn.btn-default.btn-md.btn-full-xs {
+	background-color: #f69320;
+}
+
+a.btn.btn-primary.btn-md.btn-full-xs {
+	background-color: #046938;
+}
+
 .btn.btn-default.btn-circle{
-  background-color: darkgreen;
-}
-.btn.btn-success.btn-circle{
-  background-color:limegreen;
-}
-.form-group .btn-primary{
-    background-color: #f69320;
-}
-.payment-btns .btn.btn-primary {
-      background-color: #f69320;
-}
-.panel-footer .btn-inverse{
-  background-color: darkgreen;
-  color: white;
-}
-.panel-body .btn.btn-md.btn-info{
-  background-color: darkgreen;
-  color: white;
-}
-button.btn.btn-info.btn-raised.btn-xs {
-    background-color: #f69320;
-}
-.modal-content .form-group .btn{
-      background-color: #f69320;
-}
-.modal-content .modal-header {
-      background-color: #f69320;
-}
-#memberMenu .btn-group .btn-primary {
-  background-color: darkgreen;
-}
-#memberMenu .btn-group .dropdown-menu{
-  background-color: darkgreen;
-}
-#memberMenu .btn-group .dropdown-menu li::hover{
-  background-color: darkgreen;
+	background-color: #046938;
 }
 
-.activities-by-cat .activity-item .activity-btn a{
-      background-color: #f69320;
+.btn.btn-success.btn-circle{
+	background-color:limegreen;
 }
-.activity .activity-booking .btn{
-  background-color: #f69320;
+
+.form-group .btn-primary{
+	background-color: #f69320;
 }
-#memberMenu .dropdown-menu > li > a:hover {
-    background-color:#f69320;
-  }
+
+.payment-btns .btn.btn-primary {
+	background-color: #f69320;
+}
+
+.panel-footer .btn-inverse{
+	background-color: #046938;
+	color: white;
+}
+
+.panel-body .btn.btn-md.btn-info{
+	background-color: #046938;
+	color: white;
+}
+
+button.btn.btn-info.btn-raised.btn-xs {
+	background-color: #f69320;
+}
+
+.modal-content .form-group .btn{
+	background-color: #f69320;
+}
+
+.modal-content .modal-header {
+	background-color: #f69320;
+}
+
+#memberMenu .btn-group .btn-primary {
+	background-color: #046938;
+}
+
+#memberMenu .btn-group .dropdown-menu{
+	background-color: #046938;
+}
+
+#memberMenu .btn-group .dropdown-menu li::hover{
+	background-color: #046938;
+}
+
+
+.activities-by-cat .activity-item .activity-btn a{
+	background-color: #f69320;
+}
+
+.activity .activity-booking .btn{
+	background-color: #f69320;
+}
+
+#memberMenu .dropdown-menu > li > a:hover {
+	background-color:#f69320;
+}
 .btn{
-  background-color: darkgreen;
+	background-color: #046938;
 }
+
